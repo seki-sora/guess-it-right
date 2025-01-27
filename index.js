@@ -8,7 +8,6 @@ function generateRandomNumber() {
 
 // Example usage
 const randomNumber = generateRandomNumber();
-console.log(randomNumber);
 
 submitBtn.onclick = function() {
     displayText.textContent = "";
